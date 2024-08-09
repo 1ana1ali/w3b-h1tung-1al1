@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   // Set the date we're counting down to in local time for Morocco (GMT+1)
-  const countDownDate = new Date('2025-06-04T00:00:00+01:00').getTime();
+  const countDownDate = new Date('2023-06-04T00:00:00+01:00').getTime();
 
   // Update the countdown every 1 second
   const x = setInterval(function() {
